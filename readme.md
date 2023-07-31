@@ -15,6 +15,7 @@ The game is written in TypeScript and NodeJS.
 - It will be free but require to input your own OpenAI key when starting it. However from my own use it costs litteral cents to run.
 - For now I would focus on language learning, and specifically in Japanese, but it could be extended to other languages, or even other use case altogether, like a simple role playing game.
 
+![image](https://github.com/johanlajili/watashi/assets/1099219/d13e1e9e-a99e-4e89-b90b-ca21789e5b30)
 
 ![image](https://github.com/johanlajili/watashi/assets/1099219/24a71054-bb22-4100-a4b3-6908549a9f16)
 ![image](https://github.com/johanlajili/watashi/assets/1099219/c6a86077-b1d8-4401-a4f9-88c1dd0757f3)
